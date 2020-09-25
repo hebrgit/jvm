@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+
+!**/src/main/**
+!**/src/test/**
+
+.idea
+*.iws
+*.iml
+*.ipr
+out
+*.class
